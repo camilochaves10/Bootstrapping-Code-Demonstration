@@ -1,7 +1,7 @@
 
 # Getting Started
 
-The code demonstration explains how the bootstrap method works in the field of statistics. Bootstrapping is any test or metric that uses random sampling with replacement to estimate quantities about a population by averaging estimates from simulated samples we create using a single dataset. As we draw samples, we will make statistical calculations (such finding the mean, median, or variance) based on each simulated dataset and then find the mean of that statistic  across all samples. These samples are constructed by drawing observations from our original dataset and returning them to the data sample after they have been chosen. Afterwards we will plot them to understand the shape of our data to make inferences about our entire population.
+The code demonstration explains how the bootstrap method works in the field of statistics. Bootstrapping is any test or metric that uses random sampling with replacement to estimate quantities about a population. As we draw samples, we will make statistical calculations (such finding the mean, median, or variance) based on each simulated dataset and then find the mean of that statistic  across all samples. These samples are constructed by drawing observations from our original dataset and returning them to the data sample after they have been chosen. Afterwards we will plot them to understand the shape of our data to make inferences about our entire population.
 
 Although bootstrapping requires a considerable amount of computational power,bootstrapping is a very useful technique because it saves time and resources when collecting data to study the population.
 
